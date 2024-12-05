@@ -7,7 +7,7 @@ Click the link below to view or download the complete project report:
 [📥 Download Report: Network Bandwidth Monitoring Tool](./NETWORK%20BANDWIDTH%20MONITORING%20TOOL.pdf)
 
 
-## 🔍 Project Overview
+## 🔍 Overview
 The **Network Bandwidth Monitoring Tool** is a Python-based application designed to monitor and display real-time network usage. The tool is capable of functioning in both GUI (Graphical User Interface) and headless (command-line) environments.
 
 
